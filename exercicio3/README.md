@@ -13,3 +13,5 @@ Crie uma estrutura de `if/else if/else` que verifique se a nacionalidade guardad
 
 > 💡 Lembre-se de prestar atenção às letras maiúsculas e minúsculas. 
 
+to upper case e low case a dica
+
